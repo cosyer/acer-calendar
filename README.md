@@ -4,4 +4,4 @@
 
 ## 效果演示
 
-![demo](https://github.com/cosyer/acer-calendar/blob/master/demo.png）
+![demo](https://github.com/cosyer/acer-calendar/blob/master/demo.png)
